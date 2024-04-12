@@ -1,1 +1,30 @@
-
+Name of the Student:JALLA NEELIMA
+Learning track:Developer
+Project Name:Implementing CRM For
+Result Tracking Of A
+Candidate With Internal
+Marks (DEV)
+TrailHead profile:https://www.salesforce.com/trailblazer/jallaneelima
+Developer org user name:jalla.neelima2004@gdcproject.com
+Developer org password:Gayatri@123
+Position:Team Lead
+Name of the Student:BUKKE NANDINI
+Learning track:Developer
+Project Name:Implementing CRM For
+Result Tracking Of A
+Candidate With Internal
+Marks (DEV)
+TrailHead Profile:https://www.salesforce.com/trailblazer/nandinibukke
+Developer org user name:bukkenandini2022@gdctirupati.com
+Developer org password:Gayatri@123
+position:Team member
+Name of the Student:REDDYVARI MUNI KUMARI
+Learning track:Developer
+Project Name:Implementing CRM For
+Result Tracking Of A
+Candidate With Internal
+Marks (DEV)
+TrailHead profile:https://www.salesforce.com/trailblazer/munikumarireddyvari
+Developer org user name:munikumari@gdctirupati.com
+Developer org password:Gayatri@123
+Position:Team member
